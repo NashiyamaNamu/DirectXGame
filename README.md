@@ -1,3 +1,4 @@
 # DirectXでゲーム作った
-ちょっとこまかい素材関係の出どころは覚えてないです。
-bgm:https://wingless-seraph.net/material-music_16bit.html
+全部自作の素材なので権利関係クリアしました。  
+なお、権利上bgn2.wavが無いので適当に持ってきてください。  
+(bgn2.wavはタイプミスではない)
